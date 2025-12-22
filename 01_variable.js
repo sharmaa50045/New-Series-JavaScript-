@@ -13,8 +13,8 @@ acoountCity = "Bengaluru"
 console.log(accountId);
 
  
-// prefer not to use var//
- // because of issue in block scope and function scope //
+/* prefer not to use var
+  because of issue in block scope and function scope */
 
 
 console.log([accountId,accountEmail,accountPassword,acoountCity])
